@@ -30,11 +30,6 @@ and continuously improving through hands-on projects.
 
 ---
 
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yasinakciljvt&show_icons=true&count_private=true)
-
----
-
 ## 📫 Connect With Me
 **LinkedIn:** https://www.linkedin.com/in/yasinakcil
 **Email:** akcil.yasiin@gmail.com
