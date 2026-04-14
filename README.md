@@ -8,10 +8,10 @@ and continuously improving through hands-on projects.
 ---
 
 ## 🔧 Core Skills
-- **Languages:** Java, Kotlin (beginner)
-- **Frameworks:** Spring Boot, Spring MVC, JPA/Hibernate
+- **Languages:** Java, JavaScript, Kotlin (beginner)
+- **Frameworks:** Spring Boot, Spring MVC, JPA/Hibernate , React
 - **Databases:** PostgreSQL, MongoDB
-- **Tools:** Git, Linux, Docker (learning), IntelliJ IDEA
+- **Tools:** Git, Linux, Docker, Kafka, Redis
 - **Other:** REST API design, PL/SQL, basic Android development
 
 ---
